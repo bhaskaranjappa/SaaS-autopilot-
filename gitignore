@@ -1,0 +1,21 @@
+# Environment variables (sensitive data)
+.env
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+env/
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+
+# Colab/Jupyter-specific files
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs or temporary output files
+*.log
